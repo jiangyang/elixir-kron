@@ -1,2 +1,3 @@
-# elixir-kron
-play with elixir-lang
+Kron
+====
+Play with Elixir lang --  a simple cron parser/matcher
